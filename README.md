@@ -82,10 +82,9 @@ To run the application locally:
    git clone https://github.com/preston-56/react-ts-dashboard.git
    ```
 2. Navigate to the project directory:
-
-```bash
-cd react-ts-dashboard
-```
+   ```bash
+      cd react-ts-dashboard
+   ```
 
 3. Install dependencies:
 
@@ -99,7 +98,7 @@ cd react-ts-dashboard
    ```
 5. Open the application in your web browser:
 
-   ```
+   ```bash
    http://localhost:3000
    ```
 
