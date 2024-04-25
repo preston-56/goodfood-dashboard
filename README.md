@@ -1,5 +1,8 @@
-# React Typescript Dashboard Documentation
+# React Typescript Dashboard
 
+[Good Food Dashboard](https://www.figma.com/proto/L8NQuywp3MA2YUKrGXsmR4/Dashboard-(Community)?node-id=0-61)
+
+<img src="./src/assets/mockup.png"/>
 ### Overview
 
 This Dashboard is a web application built using React+Vite and TypeScript. It serves as a management tool for a food delivery service called "GoodFood". The dashboard provides various features and visualizations to monitor and manage different aspects of the service, such as revenue, order trends, customer reviews, and most ordered food items.
@@ -73,19 +76,21 @@ The Dashboard's main components are:
 To run the application locally:
 
 1. Clone the repository:
+
    ```bash
    git clone git@github.com:preston-56/git@github.com:preston-56/goodfood-dashboard.git
    ```
+
    OR
 
    ```bash
    git clone https://github.com/preston-56/git@github.com:preston-56/goodfood-dashboard.git
    ```
 2. Navigate to the project directory:
+
    ```bash
       cd goodfood-dashboard
    ```
-
 3. Install dependencies:
 
    ```bash
@@ -104,6 +109,10 @@ To run the application locally:
 
 Here's the dashboard's [LIVE LINK](https://ts-dash.netlify.app/)
 
+🚧 **Work in Progress**
+
+<img src="./src/assets/dashboard.png"/>
+
 ## Technologies Used
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
@@ -111,7 +120,6 @@ Here's the dashboard's [LIVE LINK](https://ts-dash.netlify.app/)
 - [Material-UI Charts](https://mui.com/): Open-source charting library for creating interactive charts and visualizations.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for quickly building custom designs.
 - [Vite](https://vitejs.dev/): A fast build tool for modern web development.
-
 
 ## Dependencies
 
@@ -125,6 +133,7 @@ The project utilizes the following dependencies:
 
 ## Future Improvements
 
+- Feature(s) responsiveness.
 - Implement real-time data fetching and updates using APIs.
 - Enhance user authentication and authorization features.
 - Add additional visualizations and analytics for deeper insights into the service metrics.
