@@ -7,6 +7,7 @@ However, it is not fully functional[dynamic] as such since it is an attempt to i
 ### Project Structure
 This is a basic hierarchy structure that captures the project's key features and makes it effortless to navigate through its components.
 
+```bash
 goodfood-dashboard/
 │
 │
@@ -51,6 +52,7 @@ goodfood-dashboard/
 │  
 └── README.md                   # Project documentation
 
+```
 
 ## Usage
 
