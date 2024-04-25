@@ -19,7 +19,7 @@ const Sidebar: React.FC = () => {
       <div className="flex items-center mb-8">
         {/* Add Material-UI icon */}
         <svg
-          className="w-8 h-8 mr-2 text-green-500"
+          className="w-8 h-8 mr-2 mt-14 text-green-500"
           viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
@@ -32,7 +32,7 @@ const Sidebar: React.FC = () => {
           <path d="M12 10V19"></path>
           <path d="M7 3H17L21 8V17H3V8L7 3Z"></path>
         </svg>
-        <span className="text-lg font-bold">GOODFOOD</span>
+        <span className="text-lg font-bold mt-14">GOODFOOD</span>
       </div>
 
       {/* Menu Links */}
