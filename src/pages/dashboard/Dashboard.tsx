@@ -18,7 +18,7 @@ const Dashboard: React.FC = () => {
       </div>
       <div
         className="flex flex-col flex-1"
-        style={{ height: "100vh", width: "100%" }}
+        style={{ height: "40vh", width: "40%" }}
       >
         {/* TopBar */}
         <TopBar />
