@@ -18,7 +18,7 @@ const OrderTrendChart: React.FC = () => {
             <span>2.1% vs last week</span>
           </div>
         </div>
-        <button className="bg-blue-500 text-white px-4 py-2 rounded-lg mr-4">
+        <button className="bg-blue-500 text-white px-4 py-2 rounded-lg mr-6">
           View Report
         </button>
       </div>
