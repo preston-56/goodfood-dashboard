@@ -30,15 +30,18 @@ export const ratingData = [
   { aspect: "Hygiene", rating: 4.5 },
   { aspect: "Food Taste", rating: 4.8 },
   { aspect: "Packaging", rating: 4.2 },
+  { aspect: "Delivery Time", rating: 4.0 },
+  { aspect: "Customer Service", rating: 4.6 },
+  { aspect: "Value for Money", rating: 4.4 },
 ];
 
 export const mostOrderedItems = [
-  { name: "Pizza", price: 12.99 },
-  { name: "Burger", price: 8.99 },
-  { name: "Pasta", price: 10.49 },
-  { name: "Sushi", price: 15.99 },
+  { name: "Vegatable Burger", price: 10.99 },
+  { name: "Fresh Salad Bowl", price: 45.00 },
+  { name: "Smoothie Fruits", price: 45.00 },
+  { name: "Hot Chicken Wings", price: 45.00 },
+  { name: "Chicken Noodles", price: 75.00 },
 ];
-
 export const orderTrendData = [
   { day: "Mon", orders: 20, week: "This Week" },
   { day: "Tue", orders: 25, week: "This Week" },
