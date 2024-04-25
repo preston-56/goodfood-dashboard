@@ -3,6 +3,7 @@
 [Good Food Dashboard](https://www.figma.com/proto/L8NQuywp3MA2YUKrGXsmR4/Dashboard-(Community)?node-id=0-61)
 
 <img src="./src/assets/mockup.png"/>
+
 ### Overview
 
 This Dashboard is a web application built using React+Vite and TypeScript. It serves as a management tool for a food delivery service called "GoodFood". The dashboard provides various features and visualizations to monitor and manage different aspects of the service, such as revenue, order trends, customer reviews, and most ordered food items.
