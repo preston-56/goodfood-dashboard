@@ -74,7 +74,11 @@ To run the application locally:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:preston-56/react-ts-dashboard.git OR 
+   git clone git@github.com:preston-56/react-ts-dashboard.git
+   ```
+   OR
+
+   ```bash
    git clone https://github.com/preston-56/react-ts-dashboard.git
    ```
 2. Navigate to the project directory:
