@@ -74,16 +74,16 @@ To run the application locally:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:preston-56/react-ts-dashboard.git
+   git clone git@github.com:preston-56/git@github.com:preston-56/goodfood-dashboard.git
    ```
    OR
 
    ```bash
-   git clone https://github.com/preston-56/react-ts-dashboard.git
+   git clone https://github.com/preston-56/git@github.com:preston-56/goodfood-dashboard.git
    ```
 2. Navigate to the project directory:
    ```bash
-      cd react-ts-dashboard
+      cd goodfood-dashboard
    ```
 
 3. Install dependencies:
