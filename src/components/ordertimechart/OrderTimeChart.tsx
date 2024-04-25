@@ -22,18 +22,17 @@ const OrderTimeChart: React.FC = () => {
 
   return (
     <div className="grid gap-y-6">
-     <div className="flex flex-row justify-between items-center">
+      <div className="flex flex-row justify-between items-center">
         <div className="grid justify-items-start">
           <h2 className="text-xl font-bold">Order Time</h2>
           <p className="text-gray-600">From 1-6 Dec, 2020</p>
-         
         </div>
-        <button className="bg-blue-500 text-white px-4 py-2 rounded-lg mr-4">
+        <button className="bg-blue-500 text-white px-4 py-2 rounded-lg">
           View Report
         </button>
       </div>
 
-      <PieChart series={pieChartData} width={400} height={300} />
+      <PieChart series={pieChartData} width={600} height={300} />
       <div className="flex justify-around mt-0.5">
         {colors.map((color, index) => (
           <div key={index} className="flex items-center">
