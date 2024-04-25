@@ -18,7 +18,7 @@ const Dashboard: React.FC = () => {
       </div>
       <div
         className="flex flex-col flex-1"
-        style={{ height: "1200px", width: "100%" }}
+        style={{ height: "100vh", width: "100%" }}
       >
         {/* TopBar */}
         <TopBar />
@@ -30,7 +30,6 @@ const Dashboard: React.FC = () => {
             <RevenueChart revenueData={revenueData} /> {/* Pass the revenueData prop */}
 
             {/* Order Time Chart*/}
-            {/* <div style={{ height: "20px" }} /> */}
             <div style={{ width: "200px" }} />
             <OrderTimeChart />
           </div>
