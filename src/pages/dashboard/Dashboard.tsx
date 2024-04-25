@@ -30,7 +30,7 @@ const Dashboard: React.FC = () => {
             <RevenueChart revenueData={revenueData} /> {/* Pass the revenueData prop */}
 
             {/* Order Time Chart*/}
-            <div style={{ width: "200px" }} />
+            <div style={{ width: "300px" }} />
             <OrderTimeChart />
           </div>
 
