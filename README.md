@@ -114,23 +114,13 @@ Here's the dashboard's [LIVE LINK](https://ts-dash.netlify.app/)
 
 <img src="./src/assets/dashboard.png"/>
 
-## Technologies Used
-
+## Dependencies
+The project utilizes the following dependencies:
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
-- [TypeScript](https://www.typescriptlang.org/): A typed superset of JavaScript for enhanced code quality and developer productivity.
+- [TypeScript](https://www.typescriptlang.org/): A statically typed superset of JavaScript.
 - [Material-UI Charts](https://mui.com/): Open-source charting library for creating interactive charts and visualizations.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for quickly building custom designs.
 - [Vite](https://vitejs.dev/): A fast build tool for modern web development.
-
-## Dependencies
-
-The project utilizes the following dependencies:
-
-- React: A JavaScript library for building user interfaces.
-- TypeScript: A statically typed superset of JavaScript.
-- Tailwind CSS: A utility-first CSS framework.
-- Material-UI: A popular React UI framework for building responsive web applications.
-- Vite: A fast build tool for modern web development.
 
 ## Future Improvements
 
