@@ -39,23 +39,17 @@ const RevenueChart: React.FC<RevenueChartProps> = ({ revenueData }) => {
       <div>
         {/* Chart */}
         <h4 className="text-gray-500 grid justify-items-start">
-          {" "}
           Sales from 1-12 Dec, 2020
         </h4>
-        <BarChart series={chartData} width={800} height={300}>
-        </BarChart>
-      </div>
-
-      {/* labels */}
-      <div className="flex justify-start">
-        <div className="flex"> {/* Added flex container */}
-          <div className="flex flex-row justify-between">
-            <div className="w-4 h-4 rounded-full mr-1" />
-            <div className="w-3 h-3 bg-blue-800 rounded-full mr-1" />
+        <BarChart series={chartData} width={800} height={300}></BarChart>
+        {/* labels */}
+        <div className="flex justify-normal ml-2">
+          <div className="flex items-center">
+            <div className="w-3 h-3 bg-blue-800 rounded-full mr-2"></div>
             <span className="text-xs">Last 6 days</span>
           </div>
-          <div className="flex items-center">
-            <div className="w-3 h-3 bg-gray-400 rounded-full mr-1" />
+          <div className="flex items-center ml-4">
+            <div className="w-3 h-3 bg-gray-400 rounded-full mr-2"></div>
             <span className="text-xs">Last Week</span>
           </div>
         </div>
