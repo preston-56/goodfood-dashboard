@@ -66,7 +66,7 @@ The Dashboard's main components are:
 - **Order Time Pie Chart:** The Pie chart that visualizes the order of distribution across different time periods in a day.
 - **Rating Chart:** The Rating Line chart displays ratings for different aspects of the service.
 - **Most Ordered Food Items:** List's most ordered food items with names and prices.
-- ****Order Line Chart:** This Line chart shows the order trend for the last 6 days and the previous week.
+- **Order Line Chart:** This Line chart shows the order trend for the last 6 days and the previous week.
 
 ## Usage
 
