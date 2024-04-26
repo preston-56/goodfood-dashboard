@@ -66,7 +66,7 @@ goodfood-dashboard/
 The Dashboard's main components are:
 
 - **Sidebar Navigation:** Contains navigation links for different sections of the dashboard.
-- **Revenue Chart:** The Bar chart that displays revenue data for the last 6 days and the previous week.
+- **Revenue Chart:** The Bar chart displays revenue data for the last 6 days and the previous week.
 - **Order Time Pie Chart:** The Pie chart visualizes the order of distribution across different time periods in a day.
 - **Rating Chart:** The Rating Line chart displays ratings for different aspects of the service.
 - **Most Ordered Food Items:** Lists most ordered food items with names and prices.
